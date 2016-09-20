@@ -2,7 +2,7 @@
 
 A Simple python script to generate Ansible directory. 
 
-#Usage
+# Usage
 
 python ansible_roles_generator.py --help
 
