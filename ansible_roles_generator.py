@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 ###  RTFM : python ansible_roles_generator.py -help  ###
-# henryudha@gmail.com 3
+# (c) henryudha@gmail.com
 
 import os
 import os.path
